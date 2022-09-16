@@ -81,7 +81,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 await _fmp10Channel.invokeMethod("printIt");
               },
               child: Text(
-                "PRINT ",
+                "PRINT",
                 style: TextStyle(
                   color: Colors.white,
                 ),
